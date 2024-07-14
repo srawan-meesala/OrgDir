@@ -29,4 +29,4 @@ This script organizes files in a specified directory based on their extensions. 
 2. Ensure you have a directory named `sample` in the same location as the script. This directory should contain the files you want to organize.
 3. Run the script using the command:
    ```bash
-   app.py
+   python app.py
